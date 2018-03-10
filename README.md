@@ -1,2 +1,2 @@
 # Major-Project
-carries code of online job-portal
+source code of online job-portal
