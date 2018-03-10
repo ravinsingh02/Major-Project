@@ -1,0 +1,164 @@
+	html
+{
+	height:150%;
+	width:100%;
+}
+body
+{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:verdana,arial,helvetica,sans-serif;
+	font-size:13px;
+	line-height:15px;
+	background:#EEE4B9;
+}
+
+#header
+{
+	height:10%;
+	margin:0;
+	padding:0;
+	text-align:left;
+	background:#1A446C;
+	color:#D4E6F4;
+	
+}
+#logout
+{
+margin-left:89%;	
+}
+#logout a
+{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+}
+#logout a:hover
+{
+	color:orange;
+}
+
+#home
+{
+	text-decoration:none;
+	color:#D4E6F4;
+}
+#home:hover{
+	color:orange;
+}
+
+#main
+{	width:100%;
+	height:60%;
+	margin:0;
+	padding:0;
+	background:#EEE4B9
+}
+#footer
+{
+	height:30%;
+	margin:0;
+	padding:0;
+	text-align:left;
+	background:#1A446C;
+	color:#D4E6F4;
+	
+}
+#header h1
+{
+	padding:1em;
+	margin:0;
+	
+}
+
+
+
+/*page content */
+#page{
+	float:left;
+	height:100%;
+	padding-left:2 em;
+	vertical-align:top;
+	background:#EEE4B9;
+}
+#page h2
+{
+	color:#8D0D19;
+	margin-top:1 em;
+	
+}
+#page h3
+{
+	color:#8D0D19;
+}
+/*signup*/
+#front
+{
+	margin-top:200px;
+	
+}
+
+
+/*post a project*/
+
+.table
+{   
+	margin-left:25%;
+	margin-top:5%;
+	width:50%;
+	height:80%;
+
+	
+}
+table .contenttable
+{   
+	margin-left:25%;
+	margin-top:5%;
+	
+	
+}
+.row_content
+{
+	height:33.33%;
+	color:black;
+		 font-weight:bold;
+		 text-decoration:none;
+}
+#tile1
+{	text-align:center;
+	width:33.33%;
+	background-color:#cbbeb5;
+}
+#tile2
+{	text-align:center;
+	width:33.33%;
+	background-color:#a0db8e;
+}
+#tile3
+{	text-align:center;
+	width:33.33%;
+	background-color:#ffb6c1;
+}
+#tile4
+{	text-align:center;
+	width:33.33%;
+	background-color:#fff68f;
+}
+#tile5
+{	text-align:center;
+	width:33.33%;
+	background-color:#f8941d;
+}
+#tile6
+{	text-align:center;
+	width:33.33%;
+	background-color:#ffffff;
+}
+/*admin page*/
+div .admincenter
+{
+	margin-left:10%;
+}
